@@ -22,4 +22,4 @@ Es responsabilidad del usuario garantizar que el uso de esta extensión cumpla c
 
 Al descargar y utilizar esta extensión, usted reconoce y acepta los términos establecidos en este descargo de responsabilidades.
 
-Para más información o soporte, póngase en contacto con nosotros en: support@continia.com.
+Para más información o soporte, póngase en contacto con nosotros a través de la herramienta de ticketing
